@@ -1,0 +1,332 @@
+{
+    "name": "sample",
+    "assetsDir": "./Assest",
+    "outputDir": "./rpaks",
+    "starpakPath": "stamp.starpak",
+    "version": 8,
+    "files": [
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_ao"
+        },
+        {
+            "$type": "txtr",
+            "disableStreaming":false,
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_cav"
+        },
+        {
+            "$type": "txtr",
+            "disableStreaming":false,
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_col"
+        },
+        {
+            "$type": "txtr",
+            "disableStreaming":false,
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_colpass_ao"
+        },
+        {
+            "$type": "txtr",
+            "disableStreaming":false,
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_colpass_cav"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_colpass_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_colpass_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_colpass_ilm"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_colpass_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_colpass_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_ilm"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_colpass_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_colpass_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_colpass_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_colpass_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_ao"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_cav"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_colpass_ao"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_colpass_cav"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_colpass_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_colpass_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_colpass_ilm"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_colpass_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_colpass_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_ilm"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_ao"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_cav"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_colpass_ao"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_colpass_cav"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_colpass_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_colpass_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_colpass_ilm"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_colpass_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_colpass_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_ilm"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_ao"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_cav"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_colpass_ao"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_colpass_cav"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_colpass_col"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_colpass_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_colpass_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_colpass_spc"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_gls"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_nml"
+        },
+        {
+            "$type": "txtr",
+            "path": "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_spc"
+        },
+        {
+            "$type": "matl",
+            "path": "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_body",
+            "type":"sknp",
+            "visibilityflags": "colpass",
+            "textures": [
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_col",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_spc",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_cav",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_ao",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_gls",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_ilm",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_body_nml"
+            ]
+        },
+        {
+            "$type": "matl",
+            "path": "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_fur",
+            "type":"sknp",
+            "visibilityflags": "colpass",
+            "textures": [
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_col",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_spc",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_gls",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_fur_nml"
+            ]
+        },
+        {
+            "$type": "matl",
+            "path": "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_gear",
+            "type":"sknp",
+            "visibilityflags": "colpass",
+            "textures": [
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_col",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_spc",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_cav",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_ao",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_gls",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_ilm",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_gear_nml"
+            ]
+        },
+        {
+            "$type": "matl",
+            "path": "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet",
+            "type":"sknp",
+            "visibilityflags": "colpass",
+            "textures": [
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_col",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_spc",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_cav",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_ao",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_gls",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_ilm",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet_nml"
+            ]
+        },
+        {
+            "$type": "matl",
+            "path": "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms",
+            "type":"sknp",
+            "visibilityflags": "colpass",
+            "textures": [
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_col",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_spc",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_cav",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_ao",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_gls",
+                "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_nml"
+            ]
+        }
+    ]
+}
