@@ -327,6 +327,21 @@
                 "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_gls",
                 "textures/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms_nml"
             ]
+        },
+        {
+            "$type":"rmdl",
+            "path":"model relative path",
+            "usePhysics": true,
+            "animrigs":[
+                "rrig path in game ",
+                "e.g.",
+                "animrig/humans/class/medium/pilot_medium/bloodhound.rrig"
+            ],
+            "materials":[
+                "material path",
+                "e.g.",
+                "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms"
+            ]
         }
     ]
 }
