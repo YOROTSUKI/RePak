@@ -330,16 +330,10 @@
         },
         {
             "$type":"rmdl",
-            "path":"model relative path",
-            "usePhysics": true,
+            "path":"mdl/techart/mshop/characters/bloodhound/bloodhound_lgnd_v21_mythiclevel3proxytest_w/bloodhound_lgnd_v21_mythiclevel3proxytest_w.rmdl",
             "animrigs":[
-                "rrig path in game ",
-                "e.g.",
-                "animrig/humans/class/medium/pilot_medium/bloodhound.rrig"
             ],
             "materials":[
-                "material path",
-                "e.g.",
                 "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms"
             ]
         }
