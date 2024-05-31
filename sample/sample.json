@@ -331,10 +331,13 @@
         {
             "$type":"rmdl",
             "path":"mdl/techart/mshop/characters/bloodhound/bloodhound_lgnd_v21_mythiclevel3proxytest_w/bloodhound_lgnd_v21_mythiclevel3proxytest_w.rmdl",
+            "usePhysics":true,
             "animrigs":[
             ],
             "materials":[
-                "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_v_arms"
+                "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_body",
+                "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_gear",
+                "art/mshop/characters/legends/bloodhound/legendary/v21_mythiclevel3proxytest/bloodhound_lgnd_v21_mythiclevel3proxytest_helmet"
             ]
         }
     ]
